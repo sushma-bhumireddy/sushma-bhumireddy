@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @sushma-bhumireddy
-- 👀 I’m interested in web devoloping.
-- 🌱 I’m currently learning software engineering project management.
-- 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me sushmabhumireddy405@gmail.com.
+# Temperature Converter
+Converts temperature (in C, F or K) to other units.
+
+### Created using: ###
+- HTML
+- CSS
+- JavaScript
 
 <!---
 sushma-bhumireddy/sushma-bhumireddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
